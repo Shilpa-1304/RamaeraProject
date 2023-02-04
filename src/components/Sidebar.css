@@ -1,0 +1,24 @@
+.links {
+  /* font-size: 1.5em; */
+  text-decoration: none;
+  color: whitesmoke;
+}
+.links:hover {
+  color: white;
+}
+.Navlinks:hover {
+  background-color: black;
+  color: white;
+}
+.chat {
+  /* font-size: 1.3em; */
+  opacity: 1;
+  transition: 0.3s;
+  /* border: 3px solid green; */
+  /* padding: 2px; */
+}
+.chat:hover {
+  background-color: black;
+  color: whitesmoke;
+  opacity: 0.6;
+}
